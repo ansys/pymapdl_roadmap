@@ -4,9 +4,12 @@
 
 
 ## Labels
+To facilitate the use of this roadmap, each item is pointing to an issue in the [roadmap repository](https://github.com/pyansys/pymapdl_roadmap/issues)
+In this issue, more detailed information can be found.
+Also each item is labeled according the following criteria.
 
 ### Product Area
-Each  is an issue in the [roadmap repository](https://github.com/pyansys/pymapdl_roadmap/issues). They are labeled according the area where they belong to:
+Depending on the scope of the item, it can be tagged as (several labels can be applied):
 - **API**
 - **Client**
 - **Cloud**
